@@ -73,16 +73,16 @@
                         <ul>
                             <li>United Arab Emirates (UAE)</li>
                             <li><a href="https://resolute-dynamics.com/saudi-arabia/">Saudi Arabia</a></li>
-                            <li>Qatar</li>
-                           <li><a href="https://resolute-dynamics.com/oman/">Oman</a></li>
-                            <li>Kuwait</li>
-                            <li>Bahrain</li>
+                            <li><a href="https://resolute-dynamics.com/qatar/">Qatar</a></li>
+                            <li><a href="https://resolute-dynamics.com/oman/">Oman</a></li>
+                            <li><a href="https://resolute-dynamics.com/kuwait/">Kuwait</a></li>
+                            <li><a href="https://resolute-dynamics.com/bahrain/">Bahrain</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
                         <h3>MENA Region</h3>
                         <ul>
-                            <li>Egypt</li>
+                            <li><a href="https://resolute-dynamics.com/egypt/">Egypt</a></li>
                             <li>Jordan</li>
                             <li>Lebanon</li>
                             <li>Morocco</li>

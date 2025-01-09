@@ -55,11 +55,15 @@
                             <ul class="footer-explore-list list-unstyled">
                                 <li><a href="contact-us.php">Contact Us</a></li>
                                 <li><a href="faq.php">FAQs </a></li>
-                                <li><a href="https://resolute-dynamics.com/oman/">Resolute Oman </a></li>
-                                <li><a href="https://resolute-dynamics.com/saudi-arabia/">Resolute Saudi Arabia </a></li>
-                                <li><a href="https://resolute-dynamics.com/zimbabwe/">Resolute Zimbabwe </a></li>
-                                <li><a href="https://resolute-dynamics.com/india/">Resolute India </a></li>
-                                 <li><a href="https://resolute-dynamics.com/philippines/">Resolute Philippines </a></li>
+                                <li><a href="https://resolute-dynamics.com/india/">Resolute India</a></li>
+                                <li><a href="https://resolute-dynamics.com/egypt/">Resolute Egypt</a></li>
+                                <li><a href="https://resolute-dynamics.com/oman/">Resolute Oman</a></li>
+                                <li><a href="https://resolute-dynamics.com/qatar/">Resolute Qatar</a></li>
+                                <li><a href="https://resolute-dynamics.com/kuwait/">Resolute Kuwait</a></li>
+                                <li><a href="https://resolute-dynamics.com/bahrain/">Resolute Bahrain</a></li>
+                                <li><a href="https://resolute-dynamics.com/zimbabwe/">Resolute Zimbabwe</a></li>
+                                <li><a href="https://resolute-dynamics.com/philippines/">Resolute Philippines</a></li>
+                                <li><a href="https://resolute-dynamics.com/saudi-arabia/">Resolute Saudi Arabia</a></li>
                             </ul>
                         </div>
                     </div>
