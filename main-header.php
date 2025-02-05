@@ -5,9 +5,9 @@
             <a href="https://resolute-dynamics.com">
             <div class="logo-wrapper">
                 <!-- <a class="logo" href="index.html"> <img src="img/logo.png" class="logo-img" alt=""> </a> -->
-                <video class="logo-video" autoplay loop muted playsinline>
+               <video class="logo-video" autoplay="" loop="" muted="" playsinline="">
                     <source src="/img/vedio/resolute-new-logo-white.mp4" type="video/mp4">
-					<source src="img/vedio/resolute-new-logo-white.webm" type="video/webm">
+					<source src=" /img/vedio/resolute-new-logo-white.webm" type="video/webm" autoplay="" loop="" muted="">
 				</video>
             </div>
         </a>
