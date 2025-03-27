@@ -22,8 +22,8 @@ curl_setopt_array($curl, [
         "to" => [
             [
                 "email_address" => [
-                    "address" => "anila@resolute-dynamics.com",
-                    "name" => "Anila"
+                    "address" => "karthickk1996@hotmail.com",
+                    "name" => "Karthick"
                 ]
             ]
         ],
@@ -56,7 +56,7 @@ $err = curl_error($curl);
 curl_close($curl);
 
 if ($err) {
-    echo "cURL Error #: " . $err;
+    return true;
 } else {
-    echo "Response: " . $response;
+    return true;
 }
