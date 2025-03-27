@@ -1,11 +1,11 @@
 <?php
 
-$name = $_GET['name'] ?? 'Unknown';
-$city = $_GET['city'] ?? 'Not provided';
-$postcode = $_GET['postcode'] ?? 'Not provided';
-$phone = $_GET['phone'] ?? 'Not provided';
-$email = $_GET['email'] ?? 'Not provided';
-$message = $_GET['message'] ?? 'No message provided';
+$name = $_POST['name'] ?? 'Unknown';
+$city = $_POST['city'] ?? 'Not provided';
+$postcode = $_POST['postcode'] ?? 'Not provided';
+$phone = $_POST['phone'] ?? 'Not provided';
+$email = $_POST['email'] ?? 'Not provided';
+$message = $_POST['message'] ?? 'No message provided';
 
 $curl = curl_init();
 
@@ -22,8 +22,8 @@ curl_setopt_array($curl, [
         "to" => [
             [
                 "email_address" => [
-                    "address" => "karthickk1996@hotmail.com",
-                    "name" => "Karthick"
+                    "address" => "resolutedynamics07@gmail.com",
+                    "name" => "Resolute Dynamics"
                 ]
             ]
         ],

@@ -21,8 +21,8 @@ curl_setopt_array($curl, [
         "to" => [
             [
                 "email_address" => [
-                    "address" => "karthickk1996@hotmail.com",
-                    "name" => "Karthick"
+                    "address" => "resolutedynamics07@gmail.com",
+                    "name" => "Resolute Dynamics"
                 ]
             ]
         ],
