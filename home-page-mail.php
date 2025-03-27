@@ -1,11 +1,11 @@
 <?php
 
-$name = $_POST['name'] ?? 'Unknown';
-$city = $_POST['city'] ?? 'Not provided';
-$postcode = $_POST['postcode'] ?? 'Not provided';
-$phone = $_POST['phone'] ?? 'Not provided';
-$email = $_POST['email'] ?? 'Not provided';
-$message = $_POST['message'] ?? 'No message provided';
+$name = $_REQUEST['name'] ?? 'Unknown';
+$city = $_REQUEST['city'] ?? 'Not provided';
+$postcode = $_REQUEST['postcode'] ?? 'Not provided';
+$phone = $_REQUEST['phone'] ?? 'Not provided';
+$email = $_REQUEST['email'] ?? 'Not provided';
+$message = $_REQUEST['message'] ?? 'No message provided';
 
 $curl = curl_init();
 
