@@ -10,12 +10,11 @@ $message = $_GET['message'] ?? 'No message provided';
 $curl = curl_init();
 
 curl_setopt_array($curl, [
-    CURLOPT_URL => "https://zeptomail.zoho.com/v1.1/email",
+    CURLOPT_URL => "https://api.zeptomail.in/v1.1/email",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_ENCODING => "",
     CURLOPT_MAXREDIRS => 10,
     CURLOPT_TIMEOUT => 30,
-    CURLOPT_SSLVERSION => CURL_SSLVERSION_TLSv1_2,
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => "POST",
     CURLOPT_POSTFIELDS => json_encode([
@@ -23,8 +22,8 @@ curl_setopt_array($curl, [
         "to" => [
             [
                 "email_address" => [
-                    "address" => "karthickk1996@hotmail.com",
-                    "name" => "Karthick"
+                    "address" => "anila@resolute-dynamics.com",
+                    "name" => "Anila"
                 ]
             ]
         ],
@@ -46,7 +45,7 @@ curl_setopt_array($curl, [
     ]),
     CURLOPT_HTTPHEADER => [
         "accept: application/json",
-        "authorization: Zoho-enczapikey PHtE6r1YRei+g2V6p0MFtqTuFJL2MN4qq+sxLwEUtowWDKACG00E/dp/l2Wwr0orUfBDRaSanYxu5L+btenUdG/lPT5NDmqyqK3sx/VYSPOZsbq6x00etFUdcEzVUYXtcN9p1yDSst/eNA==",
+        "authorization: Zoho-enczapikey PHtE6r0LQ7u/2WQvoBhRsP7qEJX2NNwmrOw0LwZE49xKDf9RTk0Ho9x/wTfl/kooUPUTR6SSyINrsL+f5eyCLWy4PT1JVWqyqK3sx/VYSPOZsbq6x00fsVwSdEHUVIPse9Jv0yTWuNrZNA==",
         "cache-control: no-cache",
         "content-type: application/json",
     ],
@@ -57,7 +56,7 @@ $err = curl_error($curl);
 curl_close($curl);
 
 if ($err) {
-    echo "Email sent successfully.";
+    echo "cURL Error #: " . $err;
 } else {
-    echo "Email could not be sent.";
+    echo "Response: " . $response;
 }
