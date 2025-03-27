@@ -1,48 +1,28 @@
 <?php
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
 require_once "vendors/autoload.php";
 
 //PHPMailer Object
-$mail = new PHPMailer(true); //Argument true in constructor enables exceptions
-
-// if (isset($_GET['submit'])) {
-        
-        // echo $_GET['name'];
-        // exit();
-        
-     
-    $name=$_REQUEST['name'] ?? '';
-    $email=$_REQUEST['email'] ?? '';
-    $phone=$_REQUEST['phone'] ?? '';
-    $subject=$_REQUEST['subject'] ?? '';
+$mail = new PHPMailer();
+$name=$_REQUEST['name'] ?? '';
+$email=$_REQUEST['email'] ?? '';
+$phone=$_REQUEST['phone'] ?? '';
+$subject=$_REQUEST['subject'] ?? '';
    
-    $message=$_REQUEST['message'] ?? '';
-    
-    $to='resolutedynamics07@gmail.com';
-    $fromemail = $email;
-// }
+$message=$_REQUEST['message'] ?? '';
 
 //From email address and name
-$mail->From = "resolutedynamics07@gmail.com";
+$mail->From = "noreply@resolute-dynamics.com";
 $mail->FromName = "Resolute Dynamics";
 
 //To address and name
 $mail->addAddress("resolutedynamics07@gmail.com", "Resolute Dynamics");
-$mail->addAddress("resolutedynamics07@gmail.com"); //Recipient name is optional
-
-//Address to which recipient will reply
-// $mail->addReplyTo("reply@yourdomain.com", "Reply");
-
-//CC and BCC
-// $mail->addCC("cc@example.com");
-// $mail->addBCC("bcc@example.com");
-
-//Send HTML or Plain Text email
 
 $mail->IsSMTP();
-$mail->Host = "smtp.gmail.com";
+$mail->Host = "smtp.zeptomail.in";
 
 
 
@@ -63,9 +43,8 @@ $mail->SMTPOptions = array(
 // optional
 // used only when SMTP requires authentication  
 $mail->SMTPAuth = true;
-$mail->Username = 'resolutedynamics07@gmail.com';
-//$mail->Password = 'xupqlxmfykujdgxb';
-$mail->Password = 'wukipkrhnwzzbume';
+$mail->Username = 'emailapikey';
+$mail->Password = 'PHtE6r1YRei+g2V6p0MFtqTuFJL2MN4qq+sxLwEUtowWDKACG00E/dp/l2Wwr0orUfBDRaSanYxu5L+btenUdG/lPT5NDmqyqK3sx/VYSPOZsbq6x00etFUdcEzVUYXtcN9p1yDSst/eNA==';
 
 $mail->isHTML(true);
 
