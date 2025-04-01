@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Discover RTA approved speed limiters for vehicles in Dubai, UAE. Ensure road safety with our trusted speed governor solutions.">
     <meta name="keywords" content="Speed limiter, Speed Governor, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/speed-limiter-speed-governor.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/speed-limiter-speed-governor.php" />
     <title>RTA Approved Speed Limiter Device in Dubai, Speed Limiting Devices UAE</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">

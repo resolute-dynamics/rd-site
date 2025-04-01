@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="RTA Approved Speed Limiters in Dubai. Speed Governor for vehicles">
     <meta name="keywords" content="Speed limiter, Speed Governor, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/faq.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/faq.php" />
     <title>Resolute Dynamics : FAQ</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">

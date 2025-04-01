@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Explore Resolute Dynamics' pioneering R&D projects for advanced automotive safety solutions in Zimbabwe and beyond.">
     <meta name="keywords" content="Speed limiter, Speed Governor,R&D,Speed Limiter Installaion, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/r-and-d-projects.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/r-and-d-projects.php" />
     <title>Driving Automotive Safety Innovation,R&D Projects in Zimbabwe</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">

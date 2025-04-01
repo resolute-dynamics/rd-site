@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Explore Resolute Dynamics' robust GPS tracking devices for real-time insights in fleet management. Enhance routes and asset security in Saudi Arabia.">
     <meta name="keywords" content="GPS Tracking, Vehicle Tracking, Speed limiter, Speed Governor, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/gps-tracking-systems.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/gps-tracking-systems.php" />
     <title>GPS Tracking ,Optimize Fleet Management in Saudi Arabia</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">

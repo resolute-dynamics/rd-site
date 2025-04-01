@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
      <meta name="description" content="Resolute Dynamics Pioneer automotive safety innovation with precision engineering and cutting-edge technology. Committed to pushing safety standards, we lead in Automotive Safety Products">
     <meta name="keywords" content="Speed limiter, Speed Governor,Speed Limiter Installaion, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/thanks.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/thanks.php" />
     <title>Resolute Dynamics</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Connect with us for cutting-edge automotive safety solutions. Serving UAE, Oman, Saudi Arabia, Kenya, Zimbabwe, South Africa">
     <meta name="keywords" content="Speed limiter, Speed Governor,Speed Limiter Installaion, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/contact-us.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/contact-us.php" />
     <title>Contact Resolute Dynamics, Leading Automotive Safety Innovator</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">
@@ -72,17 +72,17 @@
                         <h3>GCC Region</h3>
                         <ul>
                             <li>United Arab Emirates (UAE)</li>
-                            <li><a href="https://resolute-dynamics.com/saudi-arabia/">Saudi Arabia</a></li>
-                            <li><a href="https://resolute-dynamics.com/qatar/">Qatar</a></li>
-                            <li><a href="https://resolute-dynamics.com/oman/">Oman</a></li>
-                            <li><a href="https://resolute-dynamics.com/kuwait/">Kuwait</a></li>
-                            <li><a href="https://resolute-dynamics.com/bahrain/">Bahrain</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/saudi-arabia/">Saudi Arabia</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/qatar/">Qatar</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/oman/">Oman</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/kuwait/">Kuwait</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/bahrain/">Bahrain</a></li>
                         </ul>
                     </div>
                     <div class="col-md-3">
                         <h3>MENA Region</h3>
                         <ul>
-                            <li><a href="https://resolute-dynamics.com/egypt/">Egypt</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/egypt/">Egypt</a></li>
                             <li>Jordan</li>
                             <li>Lebanon</li>
                             <li>Morocco</li>
@@ -106,10 +106,10 @@
                     <div class="col-md-3">
                         <h3>Asia</h3>
                         <ul>
-                            <li><a href="https://resolute-dynamics.com/india/">India</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/india/">India</a></li>
                             <li>Mauritius</li>
                             <li>Fiji</li>
-                            <li><a href="https://resolute-dynamics.com/philippines/">Philippines</a></li>
+                            <li><a href="https://speed.resolute-dynamics.com/philippines/">Philippines</a></li>
                             <li>Thailand</li>
                             <li>Malaysia</li>
                             <li>Singapore</li>

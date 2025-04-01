@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <meta name="description" content="Resolute Dynamics offers innovative safety solutions for school buses in Kenya, ensuring a secure environment for young passengers.">
     <meta name="keywords" content="Speed limiter, Speed Governor, School Bus Safety, Speed Limiter Installaion, Speed limiter certificate, RTA passing certificate, Autograde speed limiter, autokontrol speed limiter, tebra, speed limiter with gps, road safety solutions">
-    <link rel="canonical" href="https://resolute-dynamics.com/school-bus-safety-solutions.php" />
+    <link rel="canonical" href="https://speed.resolute-dynamics.com/school-bus-safety-solutions.php" />
     <title>School Bus Safety Solutions , school bus safety in Kenya</title>
     <link rel="shortcut icon" href="img/favicon.png" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow&amp;family=Barlow+Condensed&amp;family=Gilda+Display&amp;display=swap">
