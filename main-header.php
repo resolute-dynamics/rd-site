@@ -46,7 +46,7 @@
                         </ul>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="/r-and-d-projects.php">R & D Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/blog">Blogs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/blog/">Blogs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/faq.php">FAQs</a></li>
                    
                     <li class="nav-item"><a class="nav-link btn_contact" href="/contact-us.php">Contact Us</a></li>
