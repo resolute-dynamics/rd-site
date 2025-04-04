@@ -18,7 +18,7 @@
             <!-- Menu -->
             <div class="collapse navbar-collapse" id="navbar">
                 <ul class="navbar-nav ms-auto">
-                <li class="nav-item"><a class="nav-link" href="https://speed.resolute-dynamics.com"><i class="ti-home"></i></a></li>
+                <li class="nav-item"><a class="nav-link" href="https://speed.resolute-dynamics.com/"><i class="ti-home"></i></a></li>
 
                     <li class="nav-item"><a class="nav-link" href="/about.php">About</a></li>
                     <!-- <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button"
@@ -46,7 +46,6 @@
                         </ul>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="/r-and-d-projects.php">R & D Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/blog/">Blogs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/faq.php">FAQs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contact-us.php">Contact Us</a></li>
                     <li class="nav-item"><a class="nav-link btn_contact" href="https://resolute-dynamics.com/">Visit Our Main Website</a></li>
