@@ -49,7 +49,7 @@
                     <li class="nav-item"><a class="nav-link" href="/blog/">Blogs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/faq.php">FAQs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contact-us.php">Contact Us</a></li>
-                    <li class="nav-item"><a class="nav-link btn_contact" href="https://resolute-dynamics.com/">Visit Our New Website</a></li>
+                    <li class="nav-item"><a class="nav-link btn_contact" href="https://resolute-dynamics.com/">Visit Our Main Website</a></li>
                 </ul>
             </div>
         </div>
