@@ -32,6 +32,7 @@
                                 <!-- <li><a href="products.php">Products</a></li> -->
                                 <li><a href="/r-and-d-projects.php">R & D Projects</a></li>
                                 <li><a href="/blog">Blogs</a></li>
+                                <li><a href="/faq.php">FAQs</a></li>
                             </ul>
                         </div>
                     </div>

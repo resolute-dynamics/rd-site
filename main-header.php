@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg">
         <div class="container">
             <!-- Logo -->
-            <a href="https://speed.resolute-dynamics.com">
+            <a href="https://speed.resolute-dynamics.com/">
             <div class="logo-wrapper">
                 <!-- <a class="logo" href="index.html"> <img src="img/logo.png" class="logo-img" alt=""> </a> -->
                <video class="logo-video" autoplay="" loop="" muted="" playsinline="">
@@ -46,7 +46,6 @@
                         </ul>
                     </li>
                     <li class="nav-item"><a class="nav-link" href="/r-and-d-projects.php">R & D Projects</a></li>
-                    <li class="nav-item"><a class="nav-link" href="/faq.php">FAQs</a></li>
                     <li class="nav-item"><a class="nav-link" href="/contact-us.php">Contact Us</a></li>
                     <li class="nav-item"><a class="nav-link btn_contact" href="https://resolute-dynamics.com/">Visit Our Main Website</a></li>
                 </ul>
